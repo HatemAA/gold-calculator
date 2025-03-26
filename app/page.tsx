@@ -12,9 +12,9 @@ export default function Home() {
 
   // Simulated gold prices per gram in SAR (mocked for demo)
   const goldPrices = {
-    '24': 310,
-    '21': 285,
-    '18': 260
+    '24': 364,
+    '21': 318,
+    '18': 273
   };
 
   useEffect(() => {
